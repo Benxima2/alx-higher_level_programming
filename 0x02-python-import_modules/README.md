@@ -1,1 +1,6 @@
-0x02 python import modules readme
+> Date: 01/12/2022
+-----------------------------------------------
+> Author : Kefuoe Sole
+-----------------------------------------------
+# 0x02. Python - import & modules
+
